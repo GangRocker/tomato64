@@ -1,0 +1,8 @@
+# never commit game data or build output
+*.d88
+*.D88
+*.d64
+*.D64
+*.prg
+build/
+__pycache__/
